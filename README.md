@@ -2,5 +2,5 @@
 
 Hi!
 
-A human here, I like Java and Python.
-Tea is scrumptious
+I like Java and Python.
+Tea is scrumptious.
